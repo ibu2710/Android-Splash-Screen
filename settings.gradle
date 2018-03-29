@@ -1,0 +1,12 @@
+/*
+ * Created by Mohamed Ibrahim N
+ * Created on : 26/11/17 2:34 PM
+ * File name : settings.gradle
+ * Last modified by : Mohamed Ibrahim N
+ * Last modified on : 26/11/17 2:26 PM
+ * Project : BloodDonorApp
+ * Organization : Agam
+ * Copyright (c) 2017. All rights reserved.
+ */
+
+include ':app'
